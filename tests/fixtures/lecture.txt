@@ -1,0 +1,2 @@
+Architecture separates presentation, business logic and data access.
+Білім беру платформасы.
