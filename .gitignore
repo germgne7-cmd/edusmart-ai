@@ -5,3 +5,10 @@ dist/
 .netlify/
 test-results/
 playwright-report/
+
+# Keep local secrets outside version control.
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
